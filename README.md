@@ -7,7 +7,8 @@ In this repository you'll find:
 - Kvantum Themes
 - Plasma Color Schemes
 - Plasma Desktop Themes
-- Plasma Look-and-Feel Settings
+- Plasma Look-and-Feel Themes
+- Wallpapers
 
 ## Installation
 
@@ -35,4 +36,4 @@ GNU GPL v3
 
 ## preview
 
-![1](plasma/look-and-feel/com.github.vinceliuice.Matcha-sea/contents/previews/fullscreenpreview.png?raw=true)
+![1](plasma/look-and-feel/com.github.vinceliuice.Matcha-sea/contents/previews/fullscreenpreview.png)
