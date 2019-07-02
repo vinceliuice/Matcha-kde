@@ -19,13 +19,6 @@ install() {
   local LOOKFEEL_THEME=${LOOKFEEL_DIR}/com.github.vinceliuice.${name}
   local KVANTUM_THEME=${KVANTUM_DIR}/${name}
 
-  mkdir -p                                                                           ${AURORAE_DIR}
-  mkdir -p                                                                           ${SCHEMES_DIR}
-  mkdir -p                                                                           ${PLASMA_DIR}
-  mkdir -p                                                                           ${LOOKFEEL_DIR}
-  mkdir -p                                                                           ${KVANTUM_DIR}
-  mkdir -p                                                                           ${WALLPAPER_DIR}/Matcha
-
   [[ -d ${AURORAE_THEME} ]] && rm -rf ${AURORAE_THEME}
   [[ -d ${PLASMA_THEME} ]] && rm -rf ${PLASMA_THEME}
   [[ -d ${LOOKFEEL_THEME} ]] && rm -rf ${LOOKFEEL_THEME}
@@ -34,6 +27,13 @@ install() {
   [[ -d ${SCHEMES_DIR}/MatchaSea.colors ]] && rm -rf ${SCHEMES_DIR}/MatchaSea.colors
   [[ -d ${SCHEMES_DIR}/MatchaSeaDark.colors ]] && rm -rf ${SCHEMES_DIR}/MatchaSeaDark.colors
 
+  mkdir -p                                                                           ${AURORAE_DIR}
+  mkdir -p                                                                           ${SCHEMES_DIR}
+  mkdir -p                                                                           ${PLASMA_DIR}
+  mkdir -p                                                                           ${LOOKFEEL_DIR}
+  mkdir -p                                                                           ${KVANTUM_DIR}
+  mkdir -p                                                                           ${WALLPAPER_DIR}/Matcha
+  
   cp -ur ${SRC_DIR}/aurorae/${name}                                                  ${AURORAE_DIR}
   cp -ur ${SRC_DIR}/color-schemes/*.colors                                           ${SCHEMES_DIR}
   cp -ur ${SRC_DIR}/wallpaper/*.jpg                                                  ${WALLPAPER_DIR}/Matcha
