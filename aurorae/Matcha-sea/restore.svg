@@ -1,0 +1,41 @@
+<svg width="22" height="22" enable-background="new" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <use transform="translate(28.476)" width="100%" height="100%" xlink:href="#g1000"/>
+ <g id="active-center" opacity=".7">
+  <rect x="9.5367e-7" y="9.5367e-7" width="22" height="22" rx="0" ry="0" opacity="0" stroke-width="3" style="paint-order:fill markers stroke"/>
+  <g transform="translate(-173 231.64)" fill="#b9bcc2" fill-rule="evenodd" style="">
+   <path d="m188.21-220.64h-3.395c-0.4504 0-0.8188-0.36842-0.8188-0.81875v-3.3951l4.2138 4.2138" opacity="1"/>
+   <path d="m179.79-220.64h3.395c0.4504 0 0.8188 0.36842 0.8188 0.81875v3.3951l-4.2138-4.2138" opacity="1"/>
+  </g>
+  <rect x="3" y="3" width="16" height="16" fill="none" opacity=".8" style=""/>
+ </g>
+ <g id="hover-center" transform="matrix(1.0083 0 0 1.0083 -198.62 226.88)" stroke-width=".99174">
+  <g stroke-width=".99174">
+   <path d="m207.68-192.9c-5.2718 0-9.5454 4.2736-9.5454 9.5454s4.2736 9.5455 9.5454 9.5455 9.5455-4.2736 9.5455-9.5455-4.2736-9.5454-9.5455-9.5454z" fill="#5f7d7c" opacity=".45"/>
+   <g transform="translate(-.3182 .28346)" fill="#96aaa9" fill-rule="evenodd" stroke-width=".99174">
+    <path d="m213.75-183.64h-4.6296c-0.61411 0-1.1165-0.5024-1.1165-1.1165v-4.6297l5.7461 5.7462"/>
+    <path d="m202.25-183.64h4.6296c0.61411 0 1.1165 0.5024 1.1165 1.1165v4.6297l-5.7461-5.7462"/>
+   </g>
+  </g>
+  <rect x="196.77" y="-194.26" width="21.818" height="21.818" fill="none"/>
+ </g>
+ <g id="pressed-center" transform="matrix(1.0083 0 0 1.0083 -185.42 200.86)" stroke-width=".99174">
+  <path d="m194.91-143.82c-5.2718 0-9.5449 4.2731-9.5449 9.5449s4.2731 9.5449 9.5449 9.5449 9.5449-4.2731 9.5449-9.5449-4.2731-9.5449-9.5449-9.5449zm0 3.7988 5.7461 5.7461h-4.6289c-0.61411 0-1.1172-0.50311-1.1172-1.1172zm-5.7461 5.7461h4.6289c0.61411 0 1.1172 0.5031 1.1172 1.1172v4.6289z" fill="#2eb398"/>
+  <rect x="184" y="-145.18" width="21.818" height="21.818" fill="none"/>
+ </g>
+ <g id="inactive-center" transform="translate(32.627 .74576)" opacity=".4">
+  <rect x="9.5367e-7" y="9.5367e-7" width="22" height="22" rx="0" ry="0" opacity="0" stroke-width="3" style="paint-order:fill markers stroke"/>
+  <g transform="translate(-173,231.64)" fill="#b9bcc2" fill-rule="evenodd">
+   <path d="m188.21-220.64h-3.395c-0.4504 0-0.8188-0.36842-0.8188-0.81875v-3.3951l4.2138 4.2138" opacity="1"/>
+   <path d="m179.79-220.64h3.395c0.4504 0 0.8188 0.36842 0.8188 0.81875v3.3951l-4.2138-4.2138" opacity="1"/>
+  </g>
+  <rect x="3" y="3" width="16" height="16" fill="none" opacity=".8"/>
+ </g>
+ <g id="deactivated-center" transform="translate(33.186 30.763)" opacity=".4">
+  <rect x="9.5367e-7" y="9.5367e-7" width="22" height="22" rx="0" ry="0" opacity="0" stroke-width="3" style="paint-order:fill markers stroke"/>
+  <g transform="translate(-173,231.64)" fill="#b9bcc2" fill-rule="evenodd">
+   <path d="m188.21-220.64h-3.395c-0.4504 0-0.8188-0.36842-0.8188-0.81875v-3.3951l4.2138 4.2138" opacity="1"/>
+   <path d="m179.79-220.64h3.395c0.4504 0 0.8188 0.36842 0.8188 0.81875v3.3951l-4.2138-4.2138" opacity="1"/>
+  </g>
+  <rect x="3" y="3" width="16" height="16" fill="none" opacity=".8"/>
+ </g>
+</svg>

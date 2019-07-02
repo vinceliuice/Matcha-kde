@@ -1,0 +1,41 @@
+<svg version="1.1" viewBox="0 0 54 32" xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb">
+ <defs>
+  <style id="current-color-scheme" type="text/css"/>
+ </defs>
+ <g id="22-22-start-here-kde" transform="translate(-19 -35)">
+  <rect x="19" y="45" width="22" height="22" rx="0" ry="0" opacity="0" stroke-width="2" style="paint-order:stroke fill markers"/>
+  <rect x="23" y="49" width="3" height="3" rx="0" ry="0" fill="#dfdfdf" fill-rule="evenodd" style="paint-order:stroke fill markers"/>
+  <rect x="28" y="49" width="3" height="3" rx="0" ry="0" fill="#dfdfdf" fill-rule="evenodd" style="paint-order:stroke fill markers"/>
+  <rect x="33" y="49" width="3" height="3" rx="0" ry="0" fill="#dfdfdf" fill-rule="evenodd" style="paint-order:stroke fill markers"/>
+  <rect x="23" y="54" width="3" height="3" rx="0" ry="0" fill="#dfdfdf" fill-rule="evenodd" style="paint-order:stroke fill markers"/>
+  <rect x="28" y="54" width="3" height="3" rx="0" ry="0" fill="#dfdfdf" fill-rule="evenodd" style="paint-order:stroke fill markers"/>
+  <rect x="33" y="54" width="3" height="3" rx="0" ry="0" fill="#dfdfdf" fill-rule="evenodd" style="paint-order:stroke fill markers"/>
+  <rect x="23" y="59" width="3" height="3" rx="0" ry="0" fill="#dfdfdf" fill-rule="evenodd" style="paint-order:stroke fill markers"/>
+  <rect x="28" y="59" width="3" height="3" rx="0" ry="0" fill="#dfdfdf" fill-rule="evenodd" style="paint-order:stroke fill markers"/>
+  <rect x="33" y="59" width="3" height="3" rx="0" ry="0" fill="#dfdfdf" fill-rule="evenodd" style="paint-order:stroke fill markers"/>
+ </g>
+ <g id="start-here-kde" transform="translate(-33 -35)">
+  <rect x="55" y="35" width="32" height="32" rx="0" ry="0" opacity="0" stroke-width="2" style="paint-order:stroke fill markers"/>
+  <rect x="58" y="38" width="6" height="6" rx="0" ry="0" fill="#dfdfdf" fill-rule="evenodd" style="paint-order:stroke fill markers"/>
+  <rect x="68" y="38" width="6" height="6" rx="0" ry="0" fill="#dfdfdf" fill-rule="evenodd" style="paint-order:stroke fill markers"/>
+  <rect x="78" y="38" width="6" height="6" rx="0" ry="0" fill="#dfdfdf" fill-rule="evenodd" style="paint-order:stroke fill markers"/>
+  <rect x="58" y="48" width="6" height="6" rx="0" ry="0" fill="#dfdfdf" fill-rule="evenodd" style="paint-order:stroke fill markers"/>
+  <rect x="68" y="48" width="6" height="6" rx="0" ry="0" fill="#dfdfdf" fill-rule="evenodd" style="paint-order:stroke fill markers"/>
+  <rect x="78" y="48" width="6" height="6" rx="0" ry="0" fill="#dfdfdf" fill-rule="evenodd" style="paint-order:stroke fill markers"/>
+  <rect x="58" y="58" width="6" height="6" rx="0" ry="0" fill="#dfdfdf" fill-rule="evenodd" style="paint-order:stroke fill markers"/>
+  <rect x="68" y="58" width="6" height="6" rx="0" ry="0" fill="#dfdfdf" fill-rule="evenodd" style="paint-order:stroke fill markers"/>
+  <rect x="78" y="58" width="6" height="6" rx="0" ry="0" fill="#dfdfdf" fill-rule="evenodd" style="paint-order:stroke fill markers"/>
+ </g>
+ <g id="16-16-start-here-kde" transform="translate(7 -10)">
+  <rect x="-5" y="51" width="16" height="16" rx="0" ry="0" opacity="0" stroke-width="2" style="paint-order:stroke fill markers"/>
+  <rect x="-4" y="52" width="3" height="3" rx="0" ry="0" fill="#dfdfdf" fill-rule="evenodd" style="paint-order:stroke fill markers"/>
+  <rect x="1" y="52" width="3" height="3" rx="0" ry="0" fill="#dfdfdf" fill-rule="evenodd" style="paint-order:stroke fill markers"/>
+  <rect x="6" y="52" width="3" height="3" rx="0" ry="0" fill="#dfdfdf" fill-rule="evenodd" style="paint-order:stroke fill markers"/>
+  <rect x="-4" y="57" width="3" height="3" rx="0" ry="0" fill="#dfdfdf" fill-rule="evenodd" style="paint-order:stroke fill markers"/>
+  <rect x="1" y="57" width="3" height="3" rx="0" ry="0" fill="#dfdfdf" fill-rule="evenodd" style="paint-order:stroke fill markers"/>
+  <rect x="6" y="57" width="3" height="3" rx="0" ry="0" fill="#dfdfdf" fill-rule="evenodd" style="paint-order:stroke fill markers"/>
+  <rect x="-4" y="62" width="3" height="3" rx="0" ry="0" fill="#dfdfdf" fill-rule="evenodd" style="paint-order:stroke fill markers"/>
+  <rect x="1" y="62" width="3" height="3" rx="0" ry="0" fill="#dfdfdf" fill-rule="evenodd" style="paint-order:stroke fill markers"/>
+  <rect x="6" y="62" width="3" height="3" rx="0" ry="0" fill="#dfdfdf" fill-rule="evenodd" style="paint-order:stroke fill markers"/>
+ </g>
+</svg>

@@ -1,0 +1,14 @@
+<svg width="200" height="200" version="1.1" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <filter id="a" x="-.096" y="-.096" width="1.192" height="1.192" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="6"/>
+  </filter>
+  <pattern id="b" width="178.8" height="178.8" patternTransform="translate(10.6 -9.4)" patternUnits="userSpaceOnUse">
+   <path d="m164.4 89.4a75 75 0 0 1-75 75 75 75 0 0 1-75-75 75 75 0 0 1 75-75 75 75 0 0 1 75 75z" fill-rule="evenodd" filter="url(#a)" opacity=".35" style="paint-order:stroke fill markers"/>
+  </pattern>
+ </defs>
+ <rect x="10.6" y="-9.4" width="178.8" height="178.8" fill="url(#b)"/>
+ <rect x="12.52" y="-8.4381" width="178.8" height="178.8" fill="none"/>
+ <circle cx="100" cy="75.212" r="75" fill="#2eb398" fill-rule="evenodd" style="paint-order:stroke fill markers"/>
+ <text transform="scale(1.0007 .9993)" x="59.251579" y="107.287" fill="#ffffff" font-family="'Noto Sans'" font-size="89.699px" letter-spacing="0px" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan x="59.251579" y="107.287" fill="#ffffff" font-family="'Noto Sans'">M</tspan></text>
+</svg>

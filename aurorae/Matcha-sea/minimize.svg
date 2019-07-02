@@ -1,0 +1,51 @@
+<svg width="22" height="22" enable-background="new" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <use transform="translate(27.966)" width="100%" height="100%" xlink:href="#g1051"/>
+ <g id="active-center" opacity=".7">
+  <rect x="1.2357e-6" y="9.6173e-7" width="22" height="22" rx="0" ry="0" opacity="0" stroke-width="3" style="paint-order:fill markers stroke"/>
+  <g transform="translate(-584 188.64)" opacity=".8" style="">
+   <g transform="translate(-781 -432.64)" opacity="1" style="">
+    <path d="m1373 254v2h6v-2z" color="#000000" enable-background="accumulate" fill="#b9bcc2" opacity="1" style="text-decoration-line:none;text-indent:0;text-transform:none"/>
+   </g>
+   <rect x="587" y="-185.64" width="16" height="16" fill="none" opacity="1" style=""/>
+  </g>
+ </g>
+ <g id="hover-center" transform="matrix(1.375 0 0 1.375 -664.38 284.62)" stroke-width=".99174">
+  <g transform="translate(-781 -432.64)" stroke-width=".99174">
+   <path d="m1273 248c-3.866 0-7 3.134-7 7s3.134 7 7 7 7-3.134 7-7-3.134-7-7-7z" fill="#5f7d7c" opacity=".45"/>
+   <g transform="translate(1265,247)" fill="#c0e3ff" stroke-width=".99174">
+    <g transform="translate(-81 -967)" fill="#c0e3ff" stroke-width=".99174">
+     <path d="m86 974v2h6v-2z" color="#000000" enable-background="accumulate" fill="#96aaa9" fill-opacity=".98802" style="text-decoration-line:none;text-indent:0;text-transform:none"/>
+    </g>
+   </g>
+  </g>
+  <rect x="484" y="-185.64" width="16" height="16" fill="none"/>
+ </g>
+ <g id="pressed-center" transform="matrix(1.375 0 0 1.375 -525.13 316.19)" stroke-width=".99174">
+  <g transform="translate(-882 -432.64)" stroke-width=".99174">
+   <g transform="translate(-161)">
+    <g transform="translate(58)" stroke-width=".99174">
+     <path transform="matrix(.73333 0 0 .73333 1277.1 162.99)" d="m134.91 115.92a9.5455 9.5455 0 0 0-9.5449 9.5449 9.5455 9.5455 0 0 0 9.5449 9.5449 9.5455 9.5455 0 0 0 9.5469-9.5449 9.5455 9.5455 0 0 0-9.5469-9.5449zm-4.0898 8.1816h8.1816v2.7266h-8.1816z" fill="#2eb398"/>
+    </g>
+   </g>
+  </g>
+  <rect x="383" y="-185.64" width="16" height="16" fill="none"/>
+ </g>
+ <g id="inactive-center" transform="translate(29.178)" opacity=".4">
+  <rect x="1.2357e-6" y="9.6173e-7" width="22" height="22" rx="0" ry="0" opacity="0" stroke-width="3" style="paint-order:fill markers stroke"/>
+  <g transform="translate(-584,188.64)" opacity=".8">
+   <g transform="translate(-781,-432.64)" opacity="1">
+    <path d="m1373 254v2h6v-2z" color="#000000" enable-background="accumulate" fill="#b9bcc2" opacity="1" style="text-decoration-line:none;text-indent:0;text-transform:none"/>
+   </g>
+   <rect x="587" y="-185.64" width="16" height="16" fill="none" opacity="1"/>
+  </g>
+ </g>
+ <g id="deactivated-center" transform="translate(28.525 28.619)" opacity=".4">
+  <rect x="1.2357e-6" y="9.6173e-7" width="22" height="22" rx="0" ry="0" opacity="0" stroke-width="3" style="paint-order:fill markers stroke"/>
+  <g transform="translate(-584,188.64)" opacity=".8">
+   <g transform="translate(-781,-432.64)" opacity="1">
+    <path d="m1373 254v2h6v-2z" color="#000000" enable-background="accumulate" fill="#b9bcc2" opacity="1" style="text-decoration-line:none;text-indent:0;text-transform:none"/>
+   </g>
+   <rect x="587" y="-185.64" width="16" height="16" fill="none" opacity="1"/>
+  </g>
+ </g>
+</svg>
