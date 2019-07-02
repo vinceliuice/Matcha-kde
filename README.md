@@ -36,4 +36,4 @@ GNU GPL v3
 
 ## preview
 
-![1](plasma/look-and-feel/com.github.vinceliuice.Matcha-sea/contents/previews/fullscreenpreview.png)
+![1](../master/plasma/look-and-feel/com.github.vinceliuice.Matcha-sea/contents/previews/fullscreenpreview.png)
