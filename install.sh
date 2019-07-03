@@ -14,9 +14,9 @@ THEME_NAME=Matcha-sea
 install() {
   local name=${1}
 
-  local AURORAE_THEME=${AURPRAE_DIR}/${name}
-  local PLASMA_THEME=${PLASMA_DIR}/${name}
-  local LOOKFEEL_THEME=${LOOKFEEL_DIR}/com.github.vinceliuice.${name}
+  local AURORAE_THEME="${AURORAE_DIR}/${name}"
+  local PLASMA_THEME="${PLASMA_DIR}/${name}"
+  local LOOKFEEL_THEME="${LOOKFEEL_DIR}/com.github.vinceliuice.${name}"
 
   [[ -d ${AURORAE_THEME} ]] && rm -rf ${AURORAE_THEME}
   [[ -d ${PLASMA_THEME} ]] && rm -rf ${PLASMA_THEME}
