@@ -23,7 +23,7 @@ install() {
   [[ -d ${LOOKFEEL_THEME} ]] && rm -rf ${LOOKFEEL_THEME}
   [[ -d ${KVANTUM_THEME}/${name} ]] && rm -rf ${KVANTUM_THEME}/${name}
   [[ -d ${KVANTUM_THEME}/${name}-dark ]] && rm -rf ${KVANTUM_THEME}/${name}-dark
-  [[ -d ${WALLPAPER_DIR}/Matcha ]] && rm -rf ${WALLPAPER_DIR}/Mathca/*.jpg
+  [[ -d ${WALLPAPER_DIR}/Matcha ]] && rm -rf ${WALLPAPER_DIR}/Matcha/*.jpg
   [[ -d ${SCHEMES_DIR}/MatchaSea.colors ]] && rm -rf ${SCHEMES_DIR}/MatchaSea.colors
   [[ -d ${SCHEMES_DIR}/MatchaSeaDark.colors ]] && rm -rf ${SCHEMES_DIR}/MatchaSeaDark.colors
 
