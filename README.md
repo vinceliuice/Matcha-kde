@@ -34,6 +34,6 @@ If you like my project, you can donate at:
 
 GNU GPL v3
 
-## preview
+## Preview
 
 ![1](https://github.com/xelser/Matcha-kde/blob/master/plasma/look-and-feel/com.github.vinceliuice.Matcha-sea/contents/previews/fullscreenpreview.jpg)
