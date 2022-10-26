@@ -3446,14 +3446,14 @@
      inkscape:connector-curvature="0"
      d="m 290.9998,261.64298 v 32 h 32 v -32 z"
      id="tlineedit-normal"
-     style="fill:#222b2e;fill-opacity:1;fill-rule:evenodd" />
+     style="fill:#23282b;fill-opacity:1;fill-rule:evenodd" />
   <g
      transform="matrix(0.8,0,0,0.98461538,267.9998,213.6414)"
      id="tlineedit-normal-left">
     <path
        d="M 28.75,81.2514 V 48.7516 h -7.5 v 32.5 z"
        id="path1781"
-       style="fill:#222b2e;fill-opacity:1;fill-rule:evenodd"
+       style="fill:#23282b;fill-opacity:1;fill-rule:evenodd"
        inkscape:connector-curvature="0" />
     <path
        d="m 21.25,48.7516 v 32.5 h 2.5 v -32.5 z"
@@ -3467,7 +3467,7 @@
     <path
        d="m 28.75,41.2516 c -4.125,-5.1e-5 -7.50003,3.37497 -7.5,7.5 h 7.5 z"
        id="path1787"
-       style="fill:#222b2e;fill-opacity:1;fill-rule:evenodd"
+       style="fill:#23282b;fill-opacity:1;fill-rule:evenodd"
        inkscape:connector-curvature="0" />
     <path
        d="m 28.75,41.2516 c -4.125,-5.1e-5 -7.50003,3.37497 -7.5,7.5 h 2.5 c 0,-3.125 1.875,-5 5,-5 z"
@@ -3481,7 +3481,7 @@
     <path
        d="M 28.75,81.2514 V 48.7516 h -7.5 v 32.5 z"
        id="path1793"
-       style="fill:#222b2e;fill-opacity:1;fill-rule:evenodd"
+       style="fill:#23282b;fill-opacity:1;fill-rule:evenodd"
        inkscape:connector-curvature="0" />
     <path
        d="m 21.25,48.7516 v 32.5 h 2.5 v -32.5 z"
@@ -3495,7 +3495,7 @@
     <path
        d="m 28.75,41.2516 c -4.125,-5.1e-5 -7.50003,3.37497 -7.5,7.5 h 7.5 z"
        id="path1799"
-       style="fill:#222b2e;fill-opacity:1;fill-rule:evenodd"
+       style="fill:#23282b;fill-opacity:1;fill-rule:evenodd"
        inkscape:connector-curvature="0" />
     <path
        d="m 28.75,41.2516 c -4.125,-5.1e-5 -7.50003,3.37497 -7.5,7.5 h 2.5 c 0,-3.125 1.875,-5 5,-5 z"
@@ -3509,7 +3509,7 @@
     <path
        d="M 28.75,81.2514 V 48.7516 h -7.5 v 32.5 z"
        id="path1805"
-       style="fill:#222b2e;fill-opacity:1;fill-rule:evenodd"
+       style="fill:#23282b;fill-opacity:1;fill-rule:evenodd"
        inkscape:connector-curvature="0" />
     <path
        d="m 21.25,48.7516 v 32.5 h 2.5 v -32.5 z"
@@ -3523,7 +3523,7 @@
     <path
        d="m 28.75,41.2516 c -4.125,-5.1e-5 -7.50003,3.37497 -7.5,7.5 h 7.5 z"
        id="path1811"
-       style="fill:#222b2e;fill-opacity:1;fill-rule:evenodd"
+       style="fill:#23282b;fill-opacity:1;fill-rule:evenodd"
        inkscape:connector-curvature="0" />
     <path
        d="m 28.75,41.2516 c -4.125,-5.1e-5 -7.50003,3.37497 -7.5,7.5 h 2.5 c 0,-3.125 1.875,-5 5,-5 z"
@@ -3537,7 +3537,7 @@
     <path
        d="M 28.75,81.2514 V 48.7516 h -7.5 v 32.5 z"
        id="path1817"
-       style="fill:#222b2e;fill-opacity:1;fill-rule:evenodd"
+       style="fill:#23282b;fill-opacity:1;fill-rule:evenodd"
        inkscape:connector-curvature="0" />
     <path
        d="m 21.25,48.7516 v 32.5 h 2.5 v -32.5 z"
@@ -3551,7 +3551,7 @@
     <path
        d="m 28.75,41.2516 c -4.125,-5.1e-5 -7.50003,3.37497 -7.5,7.5 h 7.5 z"
        id="path1823"
-       style="fill:#222b2e;fill-opacity:1;fill-rule:evenodd"
+       style="fill:#23282b;fill-opacity:1;fill-rule:evenodd"
        inkscape:connector-curvature="0" />
     <path
        d="m 28.75,41.2516 c -4.125,-5.1e-5 -7.50003,3.37497 -7.5,7.5 h 2.5 c 0,-3.125 1.875,-5 5,-5 z"
@@ -3563,14 +3563,14 @@
      inkscape:connector-curvature="0"
      d="m 355,261.64288 v 32 h 32 v -32 z"
      id="tlineedit-focused"
-     style="fill:#222b2e;fill-opacity:1;fill-rule:evenodd" />
+     style="fill:#23282b;fill-opacity:1;fill-rule:evenodd" />
   <g
      transform="matrix(0.8,0,0,0.98461538,332,213.6413)"
      id="tlineedit-focused-left">
     <path
        d="M 28.75,81.2514 V 48.7516 h -7.5 v 32.5 z"
        id="path1829"
-       style="fill:#222b2e;fill-opacity:1;fill-rule:evenodd"
+       style="fill:#23282b;fill-opacity:1;fill-rule:evenodd"
        inkscape:connector-curvature="0" />
     <path
        d="m 21.25,48.7516 v 32.5 h 2.5 v -32.5 z"
@@ -3584,7 +3584,7 @@
     <path
        d="m 28.75,41.2516 c -4.125,-5.1e-5 -7.50003,3.37497 -7.5,7.5 h 7.5 z"
        id="path1835"
-       style="fill:#222b2e;fill-opacity:1;fill-rule:evenodd"
+       style="fill:#23282b;fill-opacity:1;fill-rule:evenodd"
        inkscape:connector-curvature="0" />
     <path
        d="m 28.75,41.2516 c -4.125,-5.1e-5 -7.50003,3.37497 -7.5,7.5 h 2.5 c 0,-3.125 1.875,-5 5,-5 z"
@@ -3598,7 +3598,7 @@
     <path
        d="M 28.75,81.2514 V 48.7516 h -7.5 v 32.5 z"
        id="path1841"
-       style="fill:#222b2e;fill-opacity:1;fill-rule:evenodd"
+       style="fill:#23282b;fill-opacity:1;fill-rule:evenodd"
        inkscape:connector-curvature="0" />
     <path
        d="m 21.25,48.7516 v 32.5 h 2.5 v -32.5 z"
@@ -3612,7 +3612,7 @@
     <path
        d="m 28.75,41.2516 c -4.125,-5.1e-5 -7.50003,3.37497 -7.5,7.5 h 7.5 z"
        id="path1847"
-       style="fill:#222b2e;fill-opacity:1;fill-rule:evenodd"
+       style="fill:#23282b;fill-opacity:1;fill-rule:evenodd"
        inkscape:connector-curvature="0" />
     <path
        d="m 28.75,41.2516 c -4.125,-5.1e-5 -7.50003,3.37497 -7.5,7.5 h 2.5 c 0,-3.125 1.875,-5 5,-5 z"
@@ -3626,7 +3626,7 @@
     <path
        d="M 28.75,81.2514 V 48.7516 h -7.5 v 32.5 z"
        id="path1853"
-       style="fill:#222b2e;fill-opacity:1;fill-rule:evenodd"
+       style="fill:#23282b;fill-opacity:1;fill-rule:evenodd"
        inkscape:connector-curvature="0" />
     <path
        d="m 21.25,48.7516 v 32.5 h 2.5 v -32.5 z"
@@ -3640,7 +3640,7 @@
     <path
        d="m 28.75,41.2516 c -4.125,-5.1e-5 -7.50003,3.37497 -7.5,7.5 h 7.5 z"
        id="path1859"
-       style="fill:#222b2e;fill-opacity:1;fill-rule:evenodd"
+       style="fill:#23282b;fill-opacity:1;fill-rule:evenodd"
        inkscape:connector-curvature="0" />
     <path
        d="m 28.75,41.2516 c -4.125,-5.1e-5 -7.50003,3.37497 -7.5,7.5 h 2.5 c 0,-3.125 1.875,-5 5,-5 z"
@@ -3654,7 +3654,7 @@
     <path
        d="M 28.75,81.2514 V 48.7516 h -7.5 v 32.5 z"
        id="path1866"
-       style="fill:#222b2e;fill-opacity:1;fill-rule:evenodd"
+       style="fill:#23282b;fill-opacity:1;fill-rule:evenodd"
        inkscape:connector-curvature="0" />
     <path
        d="m 21.25,48.7516 v 32.5 h 2.5 v -32.5 z"
@@ -3668,7 +3668,7 @@
     <path
        d="m 28.75,41.2516 c -4.125,-5.1e-5 -7.50003,3.37497 -7.5,7.5 h 7.5 z"
        id="path1872"
-       style="fill:#222b2e;fill-opacity:1;fill-rule:evenodd"
+       style="fill:#23282b;fill-opacity:1;fill-rule:evenodd"
        inkscape:connector-curvature="0" />
     <path
        d="m 28.75,41.2516 c -4.125,-5.1e-5 -7.50003,3.37497 -7.5,7.5 h 2.5 c 0,-3.125 1.875,-5 5,-5 z"
