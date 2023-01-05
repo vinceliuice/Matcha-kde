@@ -306,7 +306,7 @@ text.bold=true
 text.normal.color=#d3dae3
 text.focus.color=#ffffff
 text.toggle.color=#ffffff
-indicator.element=harrow
+#indicator.element=harrow
 frame.expansion=0
 
 [SizeGrip]
