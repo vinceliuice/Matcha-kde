@@ -18,7 +18,7 @@ else
 	KVANTUM_DIR="$HOME/.config/Kvantum"
 fi
 
-THEME_NAME=Matcha
+THEME_NAME=Matcha-sea
 
 install() {
   local name=${1}
