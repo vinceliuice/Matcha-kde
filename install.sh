@@ -3,19 +3,19 @@
 SRC_DIR=$(cd $(dirname $0) && pwd)
 
 if [[ ${UID} -eq 0 ]]; then
-	AURORAE_DIR="/usr/share/aurorae/themes"
-	SCHEMES_DIR="/usr/share/color-schemes"
-	PLASMA_DIR="/usr/share/plasma/desktoptheme"
-	LOOKFEEL_DIR="/usr/share/plasma/look-and-feel"
-	WALLPAPER_DIR="/usr/share/wallpapers"
-	KVANTUM_DIR="/usr/share/Kvantum"
+  AURORAE_DIR="/usr/share/aurorae/themes"
+  SCHEMES_DIR="/usr/share/color-schemes"
+  PLASMA_DIR="/usr/share/plasma/desktoptheme"
+  LOOKFEEL_DIR="/usr/share/plasma/look-and-feel"
+  WALLPAPER_DIR="/usr/share/wallpapers"
+  KVANTUM_DIR="/usr/share/Kvantum"
 else
-	AURORAE_DIR="$HOME/.local/share/aurorae/themes"
-	SCHEMES_DIR="$HOME/.local/share/color-schemes"
-	PLASMA_DIR="$HOME/.local/share/plasma/desktoptheme"
-	LOOKFEEL_DIR="$HOME/.local/share/plasma/look-and-feel"
-	WALLPAPER_DIR="$HOME/.local/share/wallpapers"
-	KVANTUM_DIR="$HOME/.config/Kvantum"
+  AURORAE_DIR="$HOME/.local/share/aurorae/themes"
+  SCHEMES_DIR="$HOME/.local/share/color-schemes"
+  PLASMA_DIR="$HOME/.local/share/plasma/desktoptheme"
+  LOOKFEEL_DIR="$HOME/.local/share/plasma/look-and-feel"
+  WALLPAPER_DIR="$HOME/.local/share/wallpapers"
+  KVANTUM_DIR="$HOME/.config/Kvantum"
 fi
 
 THEME_NAME=Matcha-sea
